@@ -49,26 +49,26 @@ Sin dinero, se erradican desigualdades económicas y delitos capitalistas (robo,
 ## 7. Influencias Ideológicas
 
 - **Marx y Engels**: Materialismo histórico y abolición de clases (_El Manifiesto Comunista_, 1848).
-    
+
 - **Lenin**: Democracia proletaria y transición socialista (_El Estado y la Revolución_, 1917).
-    
+
 - **Fuentes Modernas**: Análisis de desigualdad (_Inequality Inc._, Oxfam, 2024) y tecnología (_Automation and the Future of Work_, Frey, 2019).
-    
+
 
 **Comparativa**: El capitalismo ignora estas ideas, priorizando lucro; la propuesta las adapta para una sociedad equitativa.
 
 ## Fuentes
 
 - Marx, K., & Engels, F. (1848). _El Manifiesto Comunista_. Project Gutenberg.
-    
+
 - Marx, K. (1875). _Crítica del Programa de Gotha_. Progress Publishers.
-    
+
 - Lenin, V. I. (1917). _El Estado y la Revolución_. Progress Publishers.
-    
+
 - Oxfam (2024). _Inequality Inc._. Oxfam International.
-    
+
 - FAO (2023). _State of Food Security_. FAO Publications.
-    
+
 - ONU (2023). _Global Corruption Report_. UN Publications.
-    
+
 - Frey, C. B. (2019). _Automation and the Future of Work_. Oxford University Press.

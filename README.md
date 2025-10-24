@@ -1,13 +1,20 @@
-## 1.- LA PROPUESTA.
-Imagina un mundo donde el dinero, ese relicto sutil del pasado que ha convertido la colaboración humana en una competencia feroz por la acumulación, ya no dicte quién vive con dignidad y quién languidece en la precariedad. **Bienvenido a esta propuesta**: la creación de una nueva sociedad, una donde el capital se desvanece... ya no es necesario.
+**Este es un llamado a la colaboración internacional, un llamado a que juntos como sociedad podamos lograr algo en beneficio de la inmensa mayoría y que sea tan importante en todos los aspectos que sea considerado un nuevo capítulo de la historia humana.**
 
-En esencia, transformando el capitalismo en un nuevo paradigma donde el **trabajo**, apoyado por una administración eficiente, garantiza las necesidades fundamentales del ser humano: 
-
-1. [[Alimento]].
-2. [[Vestimenta]].
-3. [[Salud]].
-4. [[Educación]].
-5. [[Vivienda]].
-
-Esto se materializa a través de una sexta Necesidad Básica, El [[Trabajo]]. Esto no es algo nuevo para nadie. En la sociedad actual ya cumplimos un roll laboral, por el cual se recibe un Salario (acá te dejo los fundamentos sobre el [[Salario Mínimo]]), que debe ser suficiente para satisfacer la canasta básica del trabajador y su familia. Pero el dinero corrompe, dicta el acceso a recursos y fomenta competencia individual, además de todos los delitos que están ligados directamente a él. 
-Esta propuesta busca poder vislumbrar un camino donde el dinero sea erradicado y con este todos males que lleva arraigados, mejorando así muchos de los aspectos de la sociedad, como ejemplo, erradicar los delitos que están directamente ligados, como lo son el robo, la estafa, corrupción, trata de personas, prostitución, pobreza, suicidios por estres laboral... etc, promoviendo equidad para todos.
+# INDICE DEL PROYECTO.
+1. [Prototipo](./Prototipo.markdown)
+2. [ ] [¿Cómo Funciona?]()
+3. [Necesidades Fundamentales](#necesidades-fundamentales)
+    - [Alimento](#alimento)
+    - [Vestimenta](#vestimenta)
+    - [Salud](#salud)
+3. [ ] [Ventajas]
+4. [ ] [Desventajas]
+5. [ ] [Mejoras Sustanciales]
+6. [ ] [Cambios en la Sociedad]
+7. [ ] [Horas Laborales Semanales]
+8. [ ] [Distribución de Recursos]
+9. [ ] [Trabajos Obsoletos]
+10. [ ] [Nuevos Trabajos]
+11. [ ] [Beneficios de la Tecnología]
+12. [ ] [Formas de Implementación]
+13. [ ] [Leyes Básicas]
