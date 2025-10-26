@@ -22,7 +22,7 @@ Estos son los pilares de nuestra sociedad y como tal, debemos recurrir a la prim
 
 ## Index
 1. [[La Propuesta]]
-2. [[¿Cómo Funciona?]]
+2. [[Funcionamiento]]
 	- [[Sufragio Universal]] 
 3. [[Distribución de Recursos Básicos]]
     - [[Alimento]]
