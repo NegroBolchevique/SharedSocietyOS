@@ -1,6 +1,7 @@
-Imagina un mundo donde el dinero, ese relicto sutil del pasado que ha convertido la colaboración humana en una competencia feroz por la acumulación, ya no dicte quién vive con dignidad y quién languidece en la precariedad. **Bienvenido a esta propuesta**: la creación de una nueva sociedad, una donde el capital se desvanece... ya no es necesario.
-
-En esencia, transformando el capitalismo en un nuevo paradigma donde el **trabajo**, apoyado por una administración eficiente, garantiza las necesidades fundamentales del ser humano:
+# Propuesta
+Imagina un mundo donde el dinero, ese relicto sutil del pasado que ha convertido la colaboración humana en una competencia feroz por la acumulación, ya no dicte quién vive con dignidad y quién languidece en la precariedad. 
+#### *Bienvenido a esta propuesta*: 
+Una nueva sociedad, una donde el capital ya no es necesario para adquirir vienes y servicios. En esencia, transformando el capitalismo en un nuevo paradigma donde el **trabajo**, garantiza las necesidades fundamentales del ser humano, aunque en la realidad no se trata de un captalismo "mutado" o "transformado", dado que las relaciones materiales entre un paradigma social no podría serlo:
 
 1. [[Alimento]].
 2. [[Vestimenta]].

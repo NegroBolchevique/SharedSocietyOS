@@ -57,4 +57,3 @@ Desde un enfoque marxista, el salario mínimo se analiza críticamente:
 **Variaciones**: Puede diferir por sector, región o tipo de empleo (juvenil, aprendiz, etc.).
 
 ----
-En resumen, el salario mínimo es una herramienta clave para equilibrar justicia social y dinámica económica, pero su efectividad depende de su diseño y contexto. Desde una perspectiva marxista, es un avance limitado dentro de un sistema capitalista que perpetúa desigualdades.
