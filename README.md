@@ -23,38 +23,6 @@ Crear herramientas y procesos que permitan la gobernanza, administración y cola
 
 ---
 
-## Nuevo árbol de carpetas (propuesto)
-Recomiendo el siguiente árbol para mantener el proyecto ordenado y escalable. Cámbialo por el árbol real si ya existe y lo adapto.
-
-/
-├─ README.md
-├─ LICENSE
-├─ CONTRIBUTING.md
-├─ CODE_OF_CONDUCT.md
-├─ .env.example
-├─ .github/                 # workflows, issue/PR templates
-├─ docs/                    # documentación viva (roadmap, arquitectura, guías)
-│  ├─ README.md
-│  ├─ roadmap.md
-│  └─ architecture.md
-├─ src/                     # código fuente principal (monorepo o agrupado)
-│  ├─ backend/              # servicios, API, microservicios
-│  │  ├─ auth/
-│  │  ├─ api/
-│  │  └─ services/
-│  └─ frontend/             # app web, paneles, componentes
-│     ├─ webapp/
-│     └─ public/
-├─ modules/                 # módulos funcionales reutilizables (p. ej. identidad, votación)
-├─ infra/                   # infraestructura: terraform, kubernetes, helm, docker-compose
-│  ├─ docker/
-│  └─ k8s/
-├─ scripts/                 # utilidades de desarrollo y despliegue
-├─ tests/                   # pruebas integradas, e2e, cargas
-├─ data/                    # esquemas, muestras de datos y migraciones
-├─ tools/                   # scripts y utilidades internas
-└─ examples/                # ejemplos de configuración, despliegue o integraciones
-
 Explicación rápida:
 - docs/: documentación legible y mantenible.
 - src/: todo el código fuente real. Dentro puedes escoger monorepo (dividir backend/frontend) o repos separados.
