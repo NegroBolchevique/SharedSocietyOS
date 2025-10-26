@@ -10,7 +10,7 @@ La distribución de recursos básicos aborda la cobertura de necesidades fundame
 
 - **Contexto Histórico y Teórico:** Los sistemas de distribución han evolucionado de economías tradicionales a industriales, destacando la necesidad de enfoques inclusivos para superar ineficiencias y desigualdades.
 - **Problema Identificado:** La asignación actual genera exclusión, con millones afectados por falta de acceso equitativo a recursos esenciales.
-- **Objetivos del Documento:** 
+- **Objetivos del Documento:**
   - Detallar el modelo general de distribución.
   - Proporcionar enlaces a necesidades específicas.
   - Evaluar viabilidad y beneficios en contextos actuales.
@@ -25,12 +25,12 @@ La operación involucra fases clave: (1) Recopilación de datos individuales y c
 
 En términos prácticos, la distribución se coordina a través de centros comunitarios equipados con herramientas digitales, donde individuos acceden a recursos personalizados sin intermediarios. Por ejemplo, en escenarios urbanos densos, se priorizan entregas modulares para optimizar espacio, mientras en áreas rurales se adaptan a contextos locales para promover autosuficiencia. La integración de educación sobre uso sostenible asegura que el sistema evolucione con retroalimentación colectiva, promoviendo no solo cobertura inmediata sino desarrollo a largo plazo.
 
-**Listado de enlaces a archivos de necesidades básicas:**  
-- [Administración de la Necesidad Básica: Alimento](Alimento.md)
-- [Administración de la Necesidad Básica: Vestimenta](Vestimenta.md)  
-- [Administración de la Necesidad Básica: Salud](Salud.md)  
-- [Administración de la Necesidad Básica: Educación](Educación.md)  
-- [Administración de la Necesidad Básica: Vivienda](Vivienda.md)  
+**Listado de enlaces a archivos de necesidades básicas:**
+1. [Administración de la Necesidad Básica: Alimento](https://github.com/NegroBolchevique/SharedSocietyProject/the-shared-society-project/fundamentos-y-conceptos/necesidades-basicas-universales/alimento.md)
+2. [Administración de la Necesidad Básica: Vivienda](https://github.com/NegroBolchevique/SharedSocietyProject/the-shared-society-project/fundamentos-y-conceptos/necesidades-basicas-universales/vivienda.md)
+3. [Administración de la Necesidad Básica: Vestimenta](https://github.com/NegroBolchevique/SharedSocietyProject/the-shared-society-project/fundamentos-y-conceptos/necesidades-basicas-universales/vestimenta.md)
+4. [Administración de la Necesidad Básica: Salud](https://github.com/NegroBolchevique/SharedSocietyProject/the-shared-society-project/fundamentos-y-conceptos/necesidades-basicas-universales/salud.md)
+5. [Administración de la Necesidad Básica: Educacion](https://github.com/NegroBolchevique/SharedSocietyProject/the-shared-society-project/fundamentos-y-conceptos/necesidades-basicas-universales/educacion.md)
 
 **Ejemplo de tabla de distribución general:**
 
@@ -56,15 +56,15 @@ El modelo propuesto ofrece un camino estructurado para una distribución equitat
 - Food and Agriculture Organization of the United Nations. (2025). *The State of Food Security and Nutrition in the World 2025*. https://www.fao.org/publications/sofi/2025/en/
 
 ## Apéndices
-**Apéndice A: Glosario de Términos**  
-- Planificación Dinámica: Ajuste en tiempo real de distribuciones basado en datos variables.  
-- Votación Escalda: Proceso democrático que progresa de lo local a lo global para decisiones inclusivas.  
+**Apéndice A: Glosario de Términos**
+- Planificación Dinámica: Ajuste en tiempo real de distribuciones basado en datos variables.
+- Votación Escalda: Proceso democrático que progresa de lo local a lo global para decisiones inclusivas.
 - Redes Logísticas Automatizadas: Sistemas integrados para transporte eficiente y monitoreado.
 
-**Apéndice B: Simulaciones de Implementación**  
-- Escenario Urbano: Distribución semanal para 1 millón de habitantes, optimizada para reducir tiempos de entrega en 50%.  
+**Apéndice B: Simulaciones de Implementación**
+- Escenario Urbano: Distribución semanal para 1 millón de habitantes, optimizada para reducir tiempos de entrega en 50%.
 - Escenario Rural: Integración con producción local para autosuficiencia en 80% de necesidades.
 
-**Versión:** 2.0  
-**Fecha:** 26/10/2025  
+**Versión:** 2.0
+**Fecha:** 26/10/2025
 **Autor/Colaboradores:** Grok (xAI), NegroBolche☭

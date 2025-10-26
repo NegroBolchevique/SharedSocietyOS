@@ -1,5 +1,3 @@
-# Administración de la Necesidad Básica: Salud
-
 ## Resumen (Abstract)
 La propuesta implementa un sistema de atención sanitaria universal, con centros equipados tecnológicamente para prevención y tratamiento equitativos. Enfoca en protocolos democráticos y datos predictivos. Posible con telemedicina actual, requiriendo eliminación de barreras lucrativas.
 

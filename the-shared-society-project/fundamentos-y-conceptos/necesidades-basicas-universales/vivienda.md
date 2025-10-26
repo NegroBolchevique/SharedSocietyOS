@@ -1,5 +1,3 @@
-# Administración de la Necesidad Básica: Vivienda
-
 ## Resumen (Abstract)
 Establece construcción modular sostenible, asignada democráticamente. Factible con prefab, requiriendo reforma territorial.
 

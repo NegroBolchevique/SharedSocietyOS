@@ -1,5 +1,3 @@
-# Administración de la Necesidad Básica: Educación
-
 ## Resumen (Abstract)
 Propone plataformas educativas personalizadas, con currículos democráticos y recursos accesibles. Viable con edtech, necesitando cierre de brechas digitales.
 

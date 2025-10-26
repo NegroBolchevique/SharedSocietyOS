@@ -1,5 +1,3 @@
-# Trabajo
-
 ## Resumen (Abstract)
 La propuesta configura el trabajo como necesidad fundamental para satisfacer otras básicas, organizado colectivamente en una sociedad sin dinero, con asignaciones democráticas y automatización para eficiencia. Se detalla un sistema de roles honoríficos, revocables, con horas reducidas y enfoque en desarrollo personal. En el contexto actual, es viable mediante plataformas digitales para coordinación, aunque requiere eliminación de estructuras salariales. Beneficios incluyen empoderamiento colectivo y productividad sostenible; desafíos abarcan reconversión laboral. Esta sección presenta procesos operativos, impactos y viabilidad, integrando Sufragio Universal y tecnología.
 

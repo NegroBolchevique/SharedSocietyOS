@@ -1,5 +1,3 @@
-# Vestimenta
-
 ## Resumen (Abstract)
 La propuesta delineada establece fábricas colectivas automatizadas para producir vestimenta funcional y culturalmente adaptada, asegurando distribución universal basada en necesidades climáticas y preferencias. Utiliza materiales sostenibles y procesos democráticos para personalización. Viable con robótica textil actual, aunque demanda reestructuración de cadenas de suministro. Beneficios abarcan reducción de explotación laboral y residuos; limitaciones incluyen adaptación cultural.
 
